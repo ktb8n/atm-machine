@@ -1,0 +1,30 @@
+#root {
+background-color: black;
+color: green;
+text-align: center;
+}
+
+#select {
+  margin: auto;
+}
+
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.center {
+  display: center;
+}
+img {
+  width: 400px;
+  height: 300px;
+  margin-bottom: 20px;
+}
